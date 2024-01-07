@@ -46,6 +46,9 @@ If you would like to contribute to this project, please follow these steps:
 3. Commit your changes: `git commit -m 'Add a new feature'`
 4. Push to your branch: `git push origin feature-name`
 5. Create a pull request
+## ScreenShot
+[![MasterHead](https://akshay-kumar93.web.app/img/portfolio/netflix.png
+)](https://akshay-kumar93.web.app/)
 
 ## License
 
